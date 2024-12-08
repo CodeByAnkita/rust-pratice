@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file tailored for your GitHub repository named `rust-practice`. References to "Zero to Mastery" have been removed, and the content has been polished to suit a general Rust learning repository while retaining all essential instructions.
-
----
-
 # Rust Practice
 
 This repository is a collection of exercises, projects, and activities designed to help you learn the Rust programming language. It includes various activities, a sample project (`ClipStash`), and related solutions to enhance your Rust programming skills.
